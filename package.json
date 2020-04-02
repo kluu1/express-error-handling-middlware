@@ -1,0 +1,27 @@
+{
+  "name": "express-error-handling-middlware",
+  "version": "1.0.0",
+  "description": "how to build a error handling middleware for an express.js application",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kluu1/express-error-handling-middlware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kluu1/express-error-handling-middlware/issues"
+  },
+  "homepage": "https://github.com/kluu1/express-error-handling-middlware#readme"
+}
